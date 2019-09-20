@@ -2,9 +2,13 @@ void setup() {
 
 }
 
-asdasd
+Vor Fader, du som er i harddisken!
+hellig vorde dit Obrativesystem,
+ske din vilje på skærmen således også i Windows;
+Led dig ikke ind i systemfejl,
+men fri os fra visus og de lange svartider.
+Og tilgiv os vore tastefejl, selv om vi ikke tilgiver programfejl.
+Thi dit er sytemet og magten i al evighed
+ENTER
 
-void draw() {
-  background (255);
-  noStroke(); 
 }
